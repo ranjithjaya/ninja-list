@@ -1,0 +1,6 @@
+1. cd C:\Users\Ranjithj\OneDrive\Documents\ReactProjects\React-Next\Ninja-List
+2. npx create-next-app ninja-list
+3. Run: npm run dev
+------------------------------------------------------------------
+Next.js Tutorial #1 - Introduction & Setup
+https://www.youtube.com/watch?v=A63UxsQsEbU
